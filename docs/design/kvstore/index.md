@@ -1,6 +1,6 @@
-# KV Store Design
+# Lineage Lattice Design
 
-The **Key-Value Store (KV Store)** will provide a lightweight, internal data layer for configuration, metadata, and future caching.
+**Lineage Lattice** is lineage.cloud's **Key-Value Store (KV Store)** will provide a lightweight, internal data layer for configuration, metadata, and future caching.
 
 # System Design Diagram
 
