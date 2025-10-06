@@ -12,6 +12,7 @@ This directory will contain all architectural and design specification for the p
 | [Storage Service](./design/simple-storage/index.md) | Stuff      |
 
 # Navigation
+| Navigation |
 | ------------------- |
 | [Back to Project Root](../README.md)  | 
 | [System Design Overview](./design/index.md)  | 
